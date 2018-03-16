@@ -70,3 +70,4 @@ https://www.dropbox.com/s/nfbg6txozt92zxg/Teri%20Sforza%20tipsheet.pdf?dl=0
 
 https://www.ipums.org/
   - **Manipulate census and other survey data across time and space**
+	https://www.youtube.com/watch?v=tZR0aDwr91s
